@@ -2,7 +2,8 @@
 
 - Sou um desenvolvedor de software com foco em back-end
 - Tenho experiência sólida em Python e banco de dados SQL
-- Estou estudando JavaScript, suas tecnologias e frameworks
+- Estou estudando Kotlin, suas tecnologias e frameworks
+- Desenvolvimento Mobile com AndroidStudio
 - Já desenvolvi sistemas, automatizações de processos e integração de bancos de dados
 - Meu perfil no GitHub apresenta meus projetos mais recentes e anteriores
 - Sinta-se à vontade para entrar em contato comigo para mais informações ou ideias de projetos
