@@ -1,19 +1,21 @@
 ### Eai! Me chamo Gustavo Celso 😎
 
 - Sou um desenvolvedor de software com foco em back-end
-- Tenho experiência sólida em Python e banco de dados SQL
-- Estou estudando Kotlin, suas tecnologias e frameworks
-- Desenvolvimento Mobile com AndroidStudio
-- Já desenvolvi sistemas, automatizações de processos e integração de bancos de dados
+- Tenho experiência sólida em Python e banco de dados SQL e NoSQL
+- Aplicações mobile com AndroidStudio e a linguagem Kotlin
+- Desenvolvimento de sistemas desktop, automatizações de processos
 - Meu perfil no GitHub apresenta meus projetos mais recentes e anteriores
-- Sinta-se à vontade para entrar em contato comigo para mais informações ou ideias de projetos
+- Por favor, não hesite em contatar-me para quaisquer informações adicionais ou oportunidades de colaboração
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gusta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gusta-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Gusta-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Gusta-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Gusta-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gusta-Kolin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Gusta-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gusta-Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
+  <img align="center" alt="Gusta-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Gusta-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Gusta-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Gusta-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   
   ##
  
