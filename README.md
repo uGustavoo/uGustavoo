@@ -8,7 +8,7 @@
 - Por favor, não hesite em contatar-me para quaisquer informações adicionais ou oportunidades de colaboração
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gusta-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gusta-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Gusta-Kolin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Gusta-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gusta-Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
