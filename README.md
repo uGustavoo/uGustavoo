@@ -2,7 +2,7 @@
 
 - Sou um desenvolvedor de software com foco em back-end
 - Tenho experiência sólida em Python e banco de dados SQL e NoSQL
-- Aplicações mobile com AndroidStudio e a linguagem Kotlin
+- Aplicações mobile com AndroidStudio e Kotlin
 - Desenvolvimento de sistemas desktop, automatizações de processos
 - Meu perfil no GitHub apresenta meus projetos mais recentes e anteriores
 - Por favor, não hesite em contatar-me para quaisquer informações adicionais ou oportunidades de colaboração
